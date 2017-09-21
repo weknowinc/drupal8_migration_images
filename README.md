@@ -10,7 +10,7 @@ Currently this module migrates nodes from all content types in the legacy Drupal
 If you want to migrate only one content type you have to uncomment the 'node_type' option 
 in migrate_plus.migration.migrate_node_images.yml file and set the content type you want to migrate.
 
-## Define tag field
+## Define image field
 
 By default this module will migrate the **field_image** field, but if you want to migrate another
 image field, you should change the machine-name in these files:

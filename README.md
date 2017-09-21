@@ -35,7 +35,7 @@ This command also will install the module dependencies:
 
 (*) This module migrates Files from Drupal 8, you can download it [here.](https://github.com/weknowinc/drupal8_migration_files)
 
-`$ drupal module:install drupal8_migration_node_files`
+`$ drupal module:install drupal8_migration_images`
 
 ## Setup migration.
 
